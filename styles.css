@@ -1,0 +1,32 @@
+h1 {
+    color: #6b4701;
+    background-color: seagreen;
+}
+h3 {
+    color: tomato;
+}
+nav {
+    color: #896800;
+    background-color: #f6e000;
+}
+body {
+    background-color: rebeccapurple;
+}
+p {
+    color: #f9c901;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    clear: left;
+}
+img {
+    float: right;
+}
+div img {
+    float: left;
+    width: 5em;
+}
+div p {
+    clear: right;
+}
+div {
+    height: 10em;
+}
